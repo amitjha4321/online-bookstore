@@ -1,4 +1,4 @@
-package entity;
+package com.onlinebookstore.bookstore.entity;
 
 import lombok.Getter;
 import lombok.Setter;
